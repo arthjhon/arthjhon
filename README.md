@@ -1,9 +1,8 @@
-# 👩🏻‍💻 Arthur Jhonathas
+# Arthur Jhonathas
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor | SysAdmin & Infraestrutura | Criador de Conteúdo Tech`**
 
-Me chamo Arthur Jhonathas, tenho 21 anos e sou natural de Maceió/AL. Atualmente, estou cursando Engenharia da Computação no Centro Universitário Mário Pontes Jucá (UMJ). Sou fissurado por tecnologia e infraestrutura e compartilho meu conhecimento através do meu canal no YouTube "[arThLabs](https://www.youtube.com/@arthlabs)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[arThLabs](https://www.instagram.com/arthlabs/)".
-
+Estudante de Engenharia da Computação (UMJ), apaixonado por tecnologia, infraestrutura e desenvolvimento web. Criador do arThLabs no [YouTube](https://youtube.com/@arthlabs) e [Instagram](instagram.com/arthjhon).
 <p align="left">
     <a href="https://www.youtube.com/@arthlabs?sub_confirmation=1">
         <img 
@@ -105,35 +104,11 @@ Me chamo Arthur Jhonathas, tenho 21 anos e sou natural de Maceió/AL. Atualmente
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
