@@ -29,50 +29,53 @@ focus:
   - Cloud & Tunnels (AWS EC2 · Cloudflare)
   - Automação e scripts de lab
 currently_building:
-  - Templates de VMs para ambientes de lab e clientes
-  - Stack de monitoramento Docker (Zabbix · Grafana · InfluxDB)
-  - Infraestrutura AD multi-domínio (teranex.local · umj.edu.br)
+  - in progress...
 ```
 
 ---
 
 ## `> stack --list`
-
-### 🖥️ Infra & Virtualização
-
+ 
+### 🖥️ Virtualização & Sistemas Operacionais
+ 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🌐 Redes & Segurança
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+ 
+### 🌐 Redes & Conectividade
+ 
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+ 
+### 🔐 Diretório, Identidade & ITSM
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
 ![Samba](https://img.shields.io/badge/Samba4_AD-1D6363?style=for-the-badge&logo=samba&logoColor=white)
-
+![GLPI](https://img.shields.io/badge/GLPI-005CA9?style=for-the-badge&logo=bookstack&logoColor=white)
+ 
 ### 📊 Monitoramento & Observabilidade
-
+ 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
+ 
+### ☁️ Cloud & Containers
+ 
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-005CA9?style=for-the-badge&logo=bookstack&logoColor=white)
-
-### 💻 Dev & Scripts
-
+ 
+### 💻 Automação & Scripts
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+ 
 ---
 
 ## `> github --stats`
