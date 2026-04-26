@@ -23,13 +23,16 @@ location: Maceió, Alagoas — Brasil
 role: IT Infrastructure & Sysadmin
 company: TeraNex
 focus:
-  - Virtualização (VMware Workstation Pro / Proxmox VE)
-  - Active Directory com Samba4
-  - Monitoramento com Zabbix + Grafana
-  - Cloud & Tunnels (AWS EC2 · Cloudflare)
-  - Automação e scripts de lab
+  - Virtualização (VMware · HyperV · Proxmox VE)
+  - Active Directory (Windows Server · Samba4 AD)
+  - Monitoramento (Zabbix · Grafana · InfluxDB · MQTT)
+  - Cloud Infrastructure (AWS EC2 · Google Cloud · OCI)
+  - Automação via PowerShell, Bash e Python
 currently_building:
-  - in progress...
+  - Projeto Sentinela — monitoramento ambiental do CELMM/AL
+  - TermSign - Sistema de gestão de termo de responsabilidades para ativos de TI
+  - CS Hub — plataforma de stats de Counter-Strike
+
 ```
 
 ---
@@ -40,6 +43,7 @@ currently_building:
  
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![HyperV](https://img.shields.io/badge/HyperV-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -52,22 +56,38 @@ currently_building:
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
  
-### 🔐 Diretório, Identidade & ITSM
+### 🔐 Diretório & Identidade
 
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
-![Samba](https://img.shields.io/badge/Samba4_AD-1D6363?style=for-the-badge&logo=samba&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Samba4](https://img.shields.io/badge/Samba4_AD-1D6363?style=for-the-badge&logo=samba&logoColor=white)
+![RADIUS](https://img.shields.io/badge/RADIUS-333333?style=for-the-badge&logo=cisco&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-003366?style=for-the-badge&logo=openldap&logoColor=white)
+
+### 🎫 ITSM & Documentação
+
 ![GLPI](https://img.shields.io/badge/GLPI-005CA9?style=for-the-badge&logo=bookstack&logoColor=white)
+![WikiJS](https://img.shields.io/badge/Wiki.js-1976D2?style=for-the-badge&logo=wikidotjs&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
  
 ### 📊 Monitoramento & Observabilidade
  
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=black)
  
 ### ☁️ Cloud & Containers
  
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white)
  
 ### 💻 Automação & Scripts
  
