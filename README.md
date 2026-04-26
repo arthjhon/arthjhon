@@ -102,9 +102,9 @@ currently_building:
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthjhon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthjhon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&cache_seconds=1800"/>
  
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthjhontheme=github_dark&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthjhon&theme=github_dark&cache_seconds=1800"/>
  
 </div>
  
