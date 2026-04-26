@@ -102,15 +102,15 @@ currently_building:
  
 <div align="center">
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthjhon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&cache_seconds=1800"/>
  
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github_dark&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthjhontheme=github_dark&cache_seconds=1800"/>
  
 </div>
  
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arthjhon&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88)](https://git.io/streak-stats)
  
 </div>
 
